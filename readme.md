@@ -6,7 +6,6 @@ to correctly detect entities. A process which combines the layout knowledge as w
 ## In this Repo
 
 - `layouttest.ipynb` contains the code to load, finetune, and generate inferences with LayoutLMV3 model
-- `test/` contains the fintuned model
 
 
 ## Tools
